@@ -1,1 +1,5 @@
+Shynato<<<<<<< HEAD
 Shynato
+=======
+Shynato
+>>>>>>> 82d64b3bc257a0f6d018e7025f3036603c526072
